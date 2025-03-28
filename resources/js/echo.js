@@ -1,4 +1,4 @@
-import Echo from 'laravel-echo';
+import Echo from 'laravel-echo-fix-issue-415';
 
 import Pusher from 'pusher-js';
 window.Pusher = Pusher;
